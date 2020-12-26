@@ -16,7 +16,6 @@ Open `fix-player.php` and alter the settings listed under `settings`
 $host               The IP adress off the server, this does not support SRV records.
 $port               The RCON port of the server, by default this is 25575 when RCON is enabled.
 $password           The RCON password set in server.properties.
-$timeout            The amount of times it should try to connect, basicly just
 $username           The new username of the user you are trying to fix.
 $OnlyBackup         Set to "true" if you only want to make a backup of the current players progression.
 $restoreBackup      If you want to resture a previously created progression backup to a player.
