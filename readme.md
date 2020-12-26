@@ -33,4 +33,4 @@ Once the player is teleported back his progression will be restored, based on ho
 
 #### Final words
 I guarantee nothing, but whatever it does it makes a backup before end.
-For any support, Jond's discord is the best place: https://discord.com/invite/p5txVrp
+For any real support, Jond's discord is the best place: https://discord.com/invite/p5txVrp
